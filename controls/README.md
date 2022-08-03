@@ -1,7 +1,7 @@
 
 # Blender keymap
 
-WIP
+WIP. Import `qwerty_keymap.py` under Edit->Preferences->Keymap
 
 Tips:
 
