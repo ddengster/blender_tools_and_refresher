@@ -45,6 +45,10 @@ The **Keep Offset** option is useful for things whereby you need an offset, eg. 
 
 ![](display.PNG)
 
+- You can make sure the bones are always displayed in front via the **In Front** checkbox
+
+![](front.PNG)
+
 ### Manipulation Tool: Roll
 
 - [5:49 of video](https://youtu.be/cZ3o5tjO51s?si=at3rO4cUe_T_dWe6&t=347)
@@ -77,3 +81,8 @@ The **Keep Offset** option is useful for things whereby you need an offset, eg. 
 #### Reference
 
 - [Armatures - Blender 2.80 Fundamentals](https://www.youtube.com/watch?v=cZ3o5tjO51s&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=30)
+
+
+- [Character Rigging - Blender 2.80 Fundamentals](https://www.youtube.com/watch?v=f2pTkW-1JkE&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=34)
+
+Note that this is a more comprehensive video about rigging an entire mesh to a skeleton
