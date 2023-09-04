@@ -15,4 +15,8 @@ Many more explanations on other panels in the video, but optional to know
 
 ### Deleting
 
-- Hotkey: x
+- Hotkey: **x**
+
+### Dupe
+
+- Hotkey: **Shift-D**
