@@ -15,5 +15,5 @@ Reference: https://docs.blender.org/manual/en/latest/editors/3dview/navigate/nav
 
 - Press **Home** to Frame All objects to within your view
 
-Optionally: (Viewport Navigation - Blender 2.80 Fundamentals)[https://www.youtube.com/watch?v=ILqOWe3zAbk&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=2]
+Optionally: [Viewport Navigation - Blender 2.80 Fundamentals](https://www.youtube.com/watch?v=ILqOWe3zAbk&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=2)
 

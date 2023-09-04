@@ -26,4 +26,4 @@
 
 #### References
 
-- (Modeling Introduction - Blender 2.80 Fundamentals)[https://www.youtube.com/watch?v=7bHleRTEmZ0&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=8], videos from 8 to 15
+- [Modeling Introduction - Blender 2.80 Fundamentals](https://www.youtube.com/watch?v=7bHleRTEmZ0&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=8), videos from 8 to 15
