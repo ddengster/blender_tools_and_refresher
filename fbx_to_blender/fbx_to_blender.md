@@ -3,9 +3,11 @@
 
 - Assumes that FBX animations are seperated, and there is one skinned model without animations. According to animations have the format <Model Name>@<Animation Name>.FBX
 
-- Import the FBX with only the mesh and armature.  You will note 
+- Import the FBX with only the mesh and armature. 
 
 - Import the FBX that has your desired animation. (usually this is <Model Name>@<Animation Name>.FBX). Note that the new nodes/armature/mesh will be postfixed with '.00X'
+
+- Select and delete all **.00X** nodes/armature/mesh that were imported.
 
 - Setup your UI. Right click, select **Horizontal Split** and change it to **Dope Sheet**. Then switch the dropdown next to it from **Dope Sheet** to **Action Editor**
 
