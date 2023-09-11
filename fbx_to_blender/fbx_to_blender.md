@@ -27,13 +27,13 @@
 
 1. Select your original **Armature**, the one without animations.
 
-2. Rename 'Armature.001|Take|Layer' to <animationName>. 
+2. Rename 'Armature.001|Take|Layer' to **animationName**. 
 
 3. Hit 'Push down' button. Note **NlaTrack** has been created (in red). Rename it to Idle. Then delete the mesh, and the parent armature (postfixed with .001) .
 
 ![](rename.PNG)
 
-- Repeat the steps 1 to 3 for each animationnode/animation pair (eg. Rig node with Rig.001, etc), but with '_<animationname>' for the renaming in the action editor.
+- Repeat the steps 1 to 3 for each animationnode/animation pair (eg. Rig node with Rig.001, etc), but with **_<animationname>** for the renaming in the action editor.
 
 - The renaming of Nla animation tracks can be done all at once before importing another animation
 
