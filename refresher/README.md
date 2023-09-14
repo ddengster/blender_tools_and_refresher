@@ -27,3 +27,10 @@ Reference video playlist:
 [08 - Animation Keyframing, Timelines, Dopesheet](08_animation_ui/keyframes_timeline_dopesheet.md)
 
 [09 - NLA Animations](09_animation_nla/animation_nla.md)
+
+
+## More tips
+
+[[3.x] Import or Copy Objects From One Blender File To Another | Link vs. Append - Suitable Examples](https://www.youtube.com/watch?v=zKuMjVWZSmM&t=4s)
+
+- **Shift-G** while selecting a face to select by Material or other things
