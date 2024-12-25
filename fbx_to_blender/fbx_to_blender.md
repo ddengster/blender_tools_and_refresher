@@ -27,7 +27,7 @@
 
 ![](listofactions.PNG)
 
-1. Select your original **Armature**, the one without animations.
+1. Select your original **Armature** within **Scene Collection**, the top right box. Then select the action 'Armature.001|Take|Layer' similar to above picture and scrub the timeline. The model should play the animation.
 
 2. Rename 'Armature.001|Take|Layer' to **animationName**. 
 
@@ -35,11 +35,22 @@
 
 ![](rename.PNG)
 
-- Repeat the steps 1 to 3 for each animationnode/animation pair (eg. Rig node with Rig.001, etc), but with **_<animationname>** for the renaming in the action editor.
+- Repeat the steps 1 to 3 for each scene collection item and animation pair (eg. Rig node with Rig.001|Take.001|BaseLayer, RigLArmGizmo with RigLArmGizmo.001|Take.001|BaseLayer, etc), but with **_<animationname>** for the renaming in the action editor.
 
 - The renaming of Nla animation tracks can be done all at once before importing another animation
 
 - Repeat for all other animations
+
+### Viewing animations
+
+- Make sure the current action in the **Action Editor** is nothing (undo if so; blender seems to treat changes there as modifications to the data), **select nothing** in the scene.
+
+- In the NLA panel left click on your desired action, then right click on it and do **Track Ordering -> To Top**.
+
+- Scrub the timeline to see the animation.
+
+![nla_ordering](https://github.com/user-attachments/assets/aef54178-60f7-4269-bbbd-20b66e845601)
+
 
 ## Material names and textures
 
