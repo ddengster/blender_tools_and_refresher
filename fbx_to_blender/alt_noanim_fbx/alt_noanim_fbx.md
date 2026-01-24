@@ -16,7 +16,7 @@ You should be able to see something less broken.
 
 ## Fixing offset meshes
 
-You might find your meshes being offset. To fix this, unparent/unlink your mesh (`Alt-P -> Clear Parent`), then move (via controls) it to the correct-looking spot, preferably in the A-pose keyframe. Then re-parent the mesh.
+You might find your meshes being offset. To fix this, unparent/unlink your mesh (`Alt-P -> Clear Parent` or `Clear Parent and Keep Transform`), then move (via controls) it to the correct-looking spot, preferably in the A-pose keyframe. Then re-parent the mesh.
 
 **Make sure to scrub the animation timeline to check correctness!**
 
