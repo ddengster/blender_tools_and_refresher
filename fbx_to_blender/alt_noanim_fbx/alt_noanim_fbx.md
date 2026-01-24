@@ -27,3 +27,5 @@ After unlinking the attachment (alt-p), they may need to have their origin reset
 Warning: it can be tedious to orient the mesh correctly. Again, scrub the timeline for correctness!
 
 ![](parent_to_node.PNG)
+
+- Alternatively, you can skip the whole going to pose and parenting to bone and instead parent to the armature object instead.
