@@ -66,6 +66,10 @@
 
 ![](view_texture.PNG)
 
+- If you have extra model attachments that don't use the same material, remember to swap materials. 
+
+- Look for the double paper icon to the right of the 'SkinnedUnit' text field, click it and rename it to the material of your choice.
+
 ## Cleaning up 
 
 - If you want to delete old/irrelevant actions..
