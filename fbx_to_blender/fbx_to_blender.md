@@ -65,3 +65,18 @@
 - Select viewport shading to view/spotcheck the texture in the scene 
 
 ![](view_texture.PNG)
+
+## Cleaning up 
+
+- If you want to delete old/irrelevant actions..
+
+- Click the paper with blender icon at the top right panel, select `Blender File`
+
+![](lib_actions.PNG)
+
+- Click the `Actions` subheader and delete whatever action you want 
+
+![](actions_subh.PNG)
+
+
+
